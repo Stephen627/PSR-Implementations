@@ -1,5 +1,5 @@
 # PSR-Implementations
-A showcase of PSR standards.
+A showcase of [PSR standards](https://www.php-fig.org/psr/).
 
 Do **not** use this library for production use.
 
